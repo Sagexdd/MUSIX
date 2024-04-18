@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","sage_xd")
+OWNER_USERNAME = getenv("OWNER_USERNAME","nexzz_op")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME")
 # --------------------------------------------------------
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Sagexdd/SAGE_MUSIC",
+    "https://github.com/Sagexdd/MUSIX",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/sage_bot_support")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/team_sage_xd")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/nexz_support")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/team_nexz")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
